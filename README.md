@@ -1,72 +1,65 @@
-# Hi, I'm Sina 👋
+# Sina Alibabaei
 
-### Python Developer • Developer Tools • Automation
+### Python Developer · Self-Taught Programmer · Builder
 
-I build practical software focused on developer productivity, automation,
-and improving the everyday development experience.
+I’m a **self-taught programmer** passionate about coding, learning, and building useful software.
 
-I enjoy turning repetitive workflows into simple, reliable tools.
+I hold a **B.Sc. in Mechanical Engineering**, but my programming journey has been self-directed. I learn by building projects, studying computer science, reading documentation, solving problems, and continuously improving how I write software.
 
----
+## 🧰 What I Work With
 
-## 🚀 Featured Project
+**Languages**
 
-### Config Finder
+`Python` · `C`
 
-A fast and safe developer configuration command center for discovering,
-inspecting, backing up, comparing, restoring, and diagnosing development
-environment configuration.
+**Databases & CLI**
 
-**Built with:**
+`SQLite` · `MySQL` · `LiteCLI` · `mycli`
 
-Python • uv • Rich • pytest • Ruff
+**Development**
 
-👉 [View Config Finder](https://github.com/sinaalibabaei/config-finder)
+`Git` · `Docker` · `VS Code`
 
----
+**Python Ecosystem**
 
-## 🛠️ Technologies
+`uv` · `Ruff` · `pytest`
 
-### Languages
+**Currently Learning**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+`Flask`
 
-### Tools
+## 🎓 Computer Science Education
 
-![uv](https://img.shields.io/badge/uv-261230?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+Completed:
 
-### Development
+* **CS50P — Introduction to Programming with Python** · Harvard
+* **CS50 Cybersecurity — Introduction to Cybersecurity** · Harvard
+* **CS50 SQL — Introduction to Databases with SQL** · Harvard
 
-![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+## 🔨 What I Like Building
 
----
+I enjoy turning ideas and problems into practical software, especially:
 
-## 📌 What I'm Working On
+**Developer tools · CLI applications · Automation · Python projects · Databases**
 
-- Building practical Python developer tools
-- Improving software architecture and code quality
-- Learning algorithms and data structures
-- Exploring automation and developer productivity
+I care about writing code that is **clear, maintainable, testable, and useful**.
 
----
+## 🌱 How I Learn
 
-## 📂 Projects
+I’m a strong believer in self-directed learning.
 
-| Project | Description |
-| --- | --- |
-| [Config Finder](https://github.com/sinaalibabaei/config-finder) | Developer configuration management CLI |
-| [Algorithms & Data Structures](https://github.com/sinaalibabaei/algorithms-data-structures) | Python learning and algorithm practice |
+I learn by:
 
----
+`Build → Break → Understand → Improve → Repeat`
 
-## 📫 Connect
+There is always something new to learn, and that's one of the things I love most about programming.
 
-[GitHub](https://github.com/sinaalibabaei) •
-[LinkedIn](https://www.linkedin.com/in/sina-alibabaei/)
+## ❤️ Why Programming?
+
+I love coding because there is always another problem to solve, another concept to understand, and another way to make something better.
+
+**I’m here to keep learning, keep building, and keep improving.**
 
 ---
 
-### "Build useful things. Keep them simple."
+[GitHub](https://github.com/sinaalibabaei) · [LinkedIn](https://www.linkedin.com/in/sina-alibabaei/)
