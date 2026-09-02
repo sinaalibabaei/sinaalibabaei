@@ -1,78 +1,62 @@
-# Sina Alibabaei
+# Hi, I'm Sina Alibabaei 👋
 
-### Python Developer · Self-Taught Programmer · Software Builder
+**Python Developer · Software Builder · Developer Tools Enthusiast**
 
-I’m a **self-taught programmer** who loves **coding, learning, and building useful software**.
+I build practical software with a focus on **Python, developer tooling, CLI applications, automation, and databases**.
 
-I hold a **B.Sc. in Mechanical Engineering**, and I’ve built my programming knowledge independently through hands-on projects, computer science courses, documentation, experimentation, and continuous practice.
+I care about writing software that is **clean, tested, maintainable, safe, and easy to use** — not just code that works once.
 
-> **Learn deeply. Build thoughtfully. Improve continuously.**
+### 🛠️ Tech Stack
 
----
+**Languages**
 
-## ⚙️ Technologies
+`Python` · `C`
 
-| Area                   | Technologies           |
-| ---------------------- | ---------------------- |
-| **Languages**          | Python · C             |
-| **Databases**          | SQLite · MySQL         |
-| **Database CLI**       | LiteCLI · mycli        |
-| **Development**        | Git · Docker · VS Code |
-| **Python Tooling**     | uv · Ruff · pytest     |
-| **Currently Learning** | Flask                  |
+**Databases**
 
----
+`SQLite` · `MySQL`
 
-## 🎓 Computer Science Education
+**Python & Development**
 
-**Completed**
+`uv` · `Ruff` · `pytest` · `SQLAlchemy`
 
-* **CS50P — Introduction to Programming with Python** · Harvard University
-* **CS50 Cybersecurity — Introduction to Cybersecurity** · Harvard University
-* **CS50 SQL — Introduction to Databases with SQL** · Harvard University
+**Tools**
 
----
+`Git` · `Docker` · `VS Code`
 
-## 🧩 What I Build
+### 🚀 Featured Project
 
-I enjoy turning ideas and problems into **practical, reliable software**.
+#### [Config Finder](https://github.com/sinaalibabaei/config-finder)
 
-My main interests include:
+A fast and safety-focused developer configuration manager for discovering, inspecting, backing up, comparing, validating, restoring, and exporting configuration files.
 
-**Python · Developer Tools · CLI Applications · Automation · Databases · Software Engineering**
+Built with Python and designed around:
 
-I care about:
+* Safe file operations
+* Atomic writes and backups
+* Checksum verification
+* CLI automation
+* Testing
+* Developer-friendly terminal UX
 
-**Clean code · Maintainability · Testing · Good tooling · Simplicity**
+### 📚 Currently Learning
 
----
+* Software architecture and maintainable Python design
+* Backend development
+* Databases and SQL
+* Testing and automation
+* Linux and systems programming
 
-## 🌱 Learning
+### 🎯 Engineering Philosophy
 
-Programming is a continuous journey for me.
+> **Build it → Test it → Understand it → Improve it**
 
-I learn by combining:
+I prefer practical projects that solve real problems and use modern development practices from the beginning.
 
-`Study → Build → Experiment → Break → Understand → Improve`
-
-I’m currently expanding my Python development skills with **Flask**, while continuing to deepen my understanding of software engineering, databases, and computer science fundamentals.
-
----
-
-## ❤️ A Little About Me
-
-I didn’t start with a computer science degree.
-
-I started with a **Mechanical Engineering** degree and taught myself programming because I genuinely enjoy it.
-
-For me, programming is not just a skill to learn — it is something I **love doing**.
-
-There is always another problem to solve, another concept to understand, and another idea worth building.
-
-**So I keep learning. I keep building. I keep improving.**
-
----
-
-## 🔗 Connect
+### 🌐 Connect
 
 [GitHub](https://github.com/sinaalibabaei) · [LinkedIn](https://www.linkedin.com/in/sina-alibabaei/)
+
+---
+
+⭐ Thanks for visiting my profile.
